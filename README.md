@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://salomax.com">Salo</a>.<br>Backend Developer.<br><br>#.net core, #go, #mysql, #linux, #docker</samp>
+  <samp>Hello there. I'm <a href="https://salomax.com">Salo</a>.<br>Backend Developer.<br><br>#.NET CORE, #GO, #MySQL, #Linux, #Docker</samp>
   <br>
   <br>
   <br>
